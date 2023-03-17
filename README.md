@@ -2,8 +2,10 @@
 原作者  [https://github.com/0xFloyd/Portfolio_2020](https://github.com/0xFloyd/Portfolio_2020)
 
 另外参考了一个up的汉化版，但是时间长了找不到了，知道谁的话踢我一下，我标注上
-最终效果：[alleniverrui.top](alleniverrui.top)
 
+最终效果：[alleniverrui.top](http://alleniverrui.top)
+
+![](/index.png)
 ## 项目运行
 
 ```
